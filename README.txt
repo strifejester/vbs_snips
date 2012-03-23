@@ -1,0 +1,1 @@
+This area is a place for me to store vbs snippets when I learn new crap.
